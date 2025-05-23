@@ -1,0 +1,40 @@
+/*html style */html {
+     background-color: aliceblue;
+}
+/*body stlye*/
+body {
+  background-color: cyan;
+  border: 2px black;
+    width: 1200px;
+padding: 12px 6px 7px 10px;/*space bw border and contnet either top and and side shoudl be mentioned or all sides or jsut add one for all*/
+margin: 10px auto ;/*auto is used center allign it can be done for all or jsut cneter laogning*/
+}
+/*header*/
+header {
+    height: 120px;
+    background-color: beige;
+    bottom border: 2px solid black;
+
+}
+/*website logo style*/
+header img {
+    width: 10px;
+    height: 10px;
+border-radius: 50%0;}
+
+
+header h1{
+    color: darkolivegreen;
+    font-size: 28px;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    padding: 100px;
+
+}
+main section img {
+    width: 400px;
+    height: 200;
+    margin: 7px auto;
+}
